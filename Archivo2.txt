@@ -1,0 +1,6 @@
+public bool Validate(CervezaUpdateDTO cervezaUpdateDto) {
+
+    if (_cervezaRepositorio.Buscar(cer => cer.Nombre == cervezaUpdateDto.Nombre
+
+        && cervezaUpdateDto.Id != cer.CervezaID).Count() > 0)
+}
