@@ -1,7 +1,14 @@
-publis int suma(int n1, n2){
+public int suma(int n1, n2){
 
 int suma = n1 + n2;
 
 return suma;
 
+}
+
+public int resta (int a){
+
+    int resultado;
+    resultado = int 100-a;
+    return resultado
 }

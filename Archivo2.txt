@@ -6,3 +6,5 @@ public bool Validate(CervezaUpdateDTO cervezaUpdateDto) {
         return false
     }
 }
+
+console.writeLine("Hola mundo");
