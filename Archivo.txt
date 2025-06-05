@@ -10,6 +10,10 @@ public int resta (int a){
 
     int resultado;
     resultado = int 100-a;
+
+    /*
+    Estos cambios los hizo Sharon Recinos
+    */
     int respuesta = resultado;
     return respuesta;
 
