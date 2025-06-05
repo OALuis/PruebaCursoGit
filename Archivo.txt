@@ -10,5 +10,7 @@ public int resta (int a){
 
     int resultado;
     resultado = int 100-a;
-    return resultado
+    int respuesta = resultado;
+    return respuesta;
+
 }
