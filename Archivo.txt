@@ -16,5 +16,5 @@ public int resta (int a){
     */
     int respuesta = resultado;
     return respuesta;
-
+    x
 }
